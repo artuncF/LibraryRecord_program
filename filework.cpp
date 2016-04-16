@@ -1,6 +1,3 @@
-/**
-  *Furkan Artunç
-  */
 #include "filework.h"
 #include <iostream>
 #include <stdlib.h>

@@ -1,6 +1,3 @@
-/**
- *Furkan Artunç
- */
 #ifndef DOSYAISLEMLERI_H
 #define DOSYAISLEMLERI_H
 

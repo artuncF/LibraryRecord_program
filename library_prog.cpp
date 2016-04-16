@@ -1,7 +1,3 @@
-/**
- *Furkan Artunç
- */
-
 #include <iostream>
 #include <stdlib.h>
 #include <iomanip>
